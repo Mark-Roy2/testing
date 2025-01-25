@@ -1,5 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg">
-  <foreignObject x="10" y="10" width="400" height="400">
-    <iframe xmlns="http://www.w3.org/1999/xhtml" src="file:///etc/passwd"></iframe>
-  </foreignObject>
-</svg>
+
